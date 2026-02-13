@@ -37,7 +37,7 @@
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone 
+git clone "https://github.com/DhruvSoni-11/E-Commerce-backend-REST-API.git"
 ```
 
 ### 2️⃣ Navigate to Project Folder
